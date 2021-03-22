@@ -1,2 +1,9 @@
-# Total-Bot-Users
-Gives you a complete count about the amount of people using the bot among all servers combined!
+# Check Total Users Using the Bot.
+
+Check total users using the bot.
+
+# How to use the bot.
+
+This is so self explanatory that I do not need to explain how to use the bot.
+
+Just change the token in the index.js
