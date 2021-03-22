@@ -1,0 +1,28 @@
+{
+  "name": "user-count",
+  "version": "1.0.0",
+  "description": "The amount of users using the bot in all servers combined :)",
+  "main": "users.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KappasGithub/Total-Bot-Users.git"
+  },
+  "keywords": [
+    "users",
+    "discord",
+    "discord.js",
+    "user",
+    "count",
+    "guilds",
+    "servers"
+  ],
+  "author": "Kappas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KappasGithub/Total-Bot-Users/issues"
+  },
+  "homepage": "https://github.com/KappasGithub/Total-Bot-Users#readme"
+}
