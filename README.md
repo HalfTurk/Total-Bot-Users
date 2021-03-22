@@ -6,4 +6,4 @@ Check total users using the bot.
 
 This is so self explanatory that I do not need to explain how to use the bot.
 
-Just change the token in the index.js
+Just change the token in the users.js
