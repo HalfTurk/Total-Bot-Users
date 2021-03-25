@@ -8,7 +8,7 @@ client.on('ready', () => {
             game: {
                 name: 'Member Count',
                 type: "WATCHING",
-                url: "https://github.com/KappasGithub/Total-Bot-Users"
+                url: "https://github.com/KappasDEV-Total-Bot-Users"
             }
         });
     });
